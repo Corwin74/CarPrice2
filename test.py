@@ -1,1 +1,0 @@
-print(['d', 'b', 'a'].remove('b'))

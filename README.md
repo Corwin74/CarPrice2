@@ -53,5 +53,5 @@
     car_price_part2_best_final.ipynb - командный проект
     nlp.py - модуль поиска самых повторяющихся фраз в описаниях автомобилей.
 
-Никнейм на Kaggle - Alexander Samokhin
+Никнейм на Kaggle - Alexander Samokhin  
 Значение метрики, которого удалось добиться - 10.78708
